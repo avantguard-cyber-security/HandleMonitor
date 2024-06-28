@@ -1,2 +1,2 @@
 # HandleMonitor
- Monitoring a process to see if any handles to files are being opened.
+ Monitoring a process to see what handles to files are being opened.
